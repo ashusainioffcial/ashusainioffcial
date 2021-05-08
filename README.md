@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashusainioffcial
+- 👋 Hi, I’m @ashusainiofficial
 - 👀 I’m interested in ...html css and java script
 - 🌱 I’m currently learning ... html and css
 - 💞️ I’m looking to collaborate on ...javaScript project 
